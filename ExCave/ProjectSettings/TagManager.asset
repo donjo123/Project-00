@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: heel
+    uniqueID: 3691101525
+    locked: 0
+  - name: player
+    uniqueID: 1497187627
+    locked: 0
+  - name: floor
+    uniqueID: 2177537833
+    locked: 0
